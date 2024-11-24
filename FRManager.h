@@ -1,14 +1,14 @@
 //
-//  BHTdownloadManager.h
-//  BHT
+//  FRdownloadManager.h
+//  FR
 //
-//  Created by BandarHelal on 24/12/1441 AH.
+//  Created by FRMAMLF on 24/12/2004 AH.
 //
 
 #import "TWHeaders.h"
 
 
-@interface BHTManager : NSObject
+@interface FRManager : NSObject
 + (NSString *)getDownloadingPersent:(float)per;
 + (void)cleanCache;
 + (NSString *)getVideoQuality:(NSString *)url;
