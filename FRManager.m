@@ -1,15 +1,15 @@
 //
-//  BHTdownloadManager.m
-//  BHT
+//  FRdownloadManager.m
+//  FR
 //
-//  Created by BandarHelal on 24/12/1441 AH.
+//  Created by FRMAMLF on 24/12/2004 AH.
 //
 
-#import "BHTManager.h"
+#import "FRManager.h"
 #import "SettingsViewController.h"
-#import "BHTBundle/BHTBundle.h"
+#import "BHTBundle/FRBundle.h"
 
-@implementation BHTManager
+@implementation FRManager
 + (bool)isDMVideoCell:(T1InlineMediaView *)view {
     if (view.playerIconViewType == 4) {
         return true;
