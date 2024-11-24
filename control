@@ -1,9 +1,9 @@
 Package: com.bandarhl.bhtwitter
-Name: BHTwitter
+Name: FRX
 Version: 4.3
 Architecture: iphoneos-arm
-Description: Awesome tweak for Twitter
-Maintainer: Bandar Alruwaili
-Author: Bandar Alruwaili
+Description: Awesome tweak for X
+Maintainer: Fares
+Author: FRMAMLF
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common
